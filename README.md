@@ -1,5 +1,3 @@
-# vdevaras-a4
-
 ## Part 1: K-Nearest Neighbors Classification
 
 ### Steps Followed to complete the KNN Classification algorithm
